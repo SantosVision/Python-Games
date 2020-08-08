@@ -13,7 +13,7 @@ run the DBZ-S.py file and enjoy it!
 
 This game has been modified from the original SpaceInvaders game for the sake of
 python syntax practicing.
-Credit: Anell Santos, Andy Soto, Mark Santiago
+
 
 The Dragon Ball Z theme has been originally created with 3D software and PhotoShop
 Credit: Anell Santos
